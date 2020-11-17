@@ -130,7 +130,7 @@ public void createUpdate() {
 
 public void getall() {
 
-	
+	if(fname!=null) {
 	System.out.println("---Records in the Address book---");
 	System.out.println("-------------------------------------------------------------");
 	System.out.println("                                 ");
@@ -141,7 +141,8 @@ public void getall() {
 	System.out.println("Address :"+" "+address);
 	System.out.println("Number/Phone :"+" "+number);
 	System.out.println("Postal Code :"+" "+postal);
-	
+	}
+	if(Sfname!=null) {
 	System.out.println("                                 ");
 	System.out.println("--Record 2--");
 	System.out.println("                                 ");
@@ -150,7 +151,8 @@ public void getall() {
 	System.out.println("Address :"+" "+Saddress);
 	System.out.println("Number/Phone :"+" "+Snumber);
 	System.out.println("Postal Code :"+" "+Spostal);
-	
+	}
+	if(Tfname!=null) {
 	System.out.println("                                 ");
 	System.out.println("--Record 3--");
 	System.out.println("                                 ");
@@ -159,7 +161,8 @@ public void getall() {
 	System.out.println("Address :"+" "+Taddress);
 	System.out.println("Number/Phone :"+" "+Tnumber);
 	System.out.println("Postal Code :"+" "+Tpostal);
-	
+	}
+	if(Fname!=null) {
 	System.out.println("                                 ");
 	System.out.println("--Record 4--");
 	System.out.println("                                 ");
@@ -170,7 +173,7 @@ public void getall() {
 	System.out.println("Postal Code :"+" "+Fpostal);
 	System.out.println("                             ");
 	System.out.println("-------------------------------------------------------------");
-    
+	}
 
 }
 
