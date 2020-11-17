@@ -1,10 +1,10 @@
 -------------------------------------------------------------
 ---Simple Address Book Program that takes 4 Records---
 -------------------------------------------------------------
-1-Create / Update Record
-2-Get All Records
-3-Get Specific Record
-4-Exit
+1-Create / Update Record                                              //Create & Update
+2-Get All Records                                                     //Get
+3-Get Specific Record                                                 //Sorting by name (Still Working on this operation)
+4-Exit                                                                //Exit
 -------------------------------------------------------------
 1
 --Option 1 selected--
@@ -14,7 +14,7 @@
 1(4)-Create/Update 4th Record
 -------------------------------------------------------------
 1
---1st Record Selected--
+--1st Record Selected--                                                 //Creating first Record (Create / Update)
 *Enter first name
 Manas
 **Enter second name
@@ -35,7 +35,7 @@ MUMBAI
 1(4)-Create/Update 4th Record
 -------------------------------------------------------------
 2
---2nd Record Selected--
+--2nd Record Selected--                                                  //Creating second Record (Create / Update)
 *Enter first name
 Sanket
 **Enter second name
@@ -56,7 +56,7 @@ PUNE
 1(4)-Create/Update 4th Record
 -------------------------------------------------------------
 3
---3rd Record Selected--
+--3rd Record Selected--                                                  //Creating third Record (Create / Update)
 *Enter first name
 Jason
 **Enter second name
@@ -72,7 +72,7 @@ USA
 2
 --Option 2 selected--
 -------------------------------------------------------------
----Records in the Address book---
+---Records in the Address book---                                           //Viewing the Record stored in variables (Get)
 -------------------------------------------------------------
                                  
 --Record 1--
@@ -100,7 +100,7 @@ Second Name :  Smith
 Address :      USA
 Number/Phone : 2222014144
 Postal Code :  108
--------------------------------------------------------------
+------------------------------------------------------------
 4
 Thanks for Using our application.
 Exiting........
