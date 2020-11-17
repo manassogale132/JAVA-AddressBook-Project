@@ -75,7 +75,7 @@ USA
 ---Records in the Address book---                                           //Viewing the Record stored in variables (Get)
 -------------------------------------------------------------
                                  
---Record 1--
+--Record 1--                                                                //Displaying first record
                                  
 First Name :   Manas
 Second Name :  Sogale
@@ -84,7 +84,7 @@ Number/Phone : 9869488748
 Postal Code :  400021
 -------------------------------------------------------------
                                  
---Record 2--
+--Record 2--                                                                //Displaying second record
                                  
 First Name :   Sanket
 Second Name :  Joshi
@@ -92,8 +92,8 @@ Address :      PUNE
 Number/Phone : 9861452441
 Postal Code :  302111
 -------------------------------------------------------------
-                                 
---Record 3--
+                                  
+--Record 3--                                                                //Displaying third record
                                  
 First Name :   Jason
 Second Name :  Smith
@@ -101,6 +101,6 @@ Address :      USA
 Number/Phone : 2222014144
 Postal Code :  108
 ------------------------------------------------------------
-4
+4                                                                          //Exiting the program
 Thanks for Using our application.
 Exiting........
